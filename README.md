@@ -27,7 +27,7 @@ Note that you typically don't need to install this library directly as other lib
   ```
   sudo apt-get update
   sudo apt-get install build-essential python-pip python-dev python-smbus git
-  git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
+  git clone https://github.com/emutex/Adafruit_Python_GPIO.git
   cd Adafruit_Python_GPIO
   sudo python setup.py install
   ```
@@ -35,7 +35,7 @@ Note that you typically don't need to install this library directly as other lib
 - On Mac OSX, first install PIP by [downloading the python script here](https://bootstrap.pypa.io/get-pip.py) and execute it with `python get-pip.py` in a terminal, then install the [git source control system](http://git-scm.com/downloads).  Then in a terminal execute:
 
   ```
-  git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
+  git clone https://github.com/emutex/Adafruit_Python_GPIO.git
   cd Adafruit_Python_GPIO
   sudo python setup.py install
   ```
@@ -43,7 +43,7 @@ Note that you typically don't need to install this library directly as other lib
 - On Windows, first install the [latest Python 2.7 version](https://www.python.org/downloads/windows/), then install PIP by [downloading the python script here](https://bootstrap.pypa.io/get-pip.py) and execute it with `python get-pip.py` in a terminal, and finally install the [git source control system](http://git-scm.com/downloads).  Then in a git bash prompt execute:
 
   ```
-  git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
+  git clone https://github.com/emutex/Adafruit_Python_GPIO.git
   cd Adafruit_Python_GPIO
   python setup.py install
   ```
